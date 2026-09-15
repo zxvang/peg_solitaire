@@ -18,6 +18,9 @@ Find a tutorial for the selected unit test framework and write at least two xUni
 
 Source code and tutorial: [Real Python: Organizing Your Tests with the TestCase Class](https://realpython.com/python-unittest/#organizing-your-tests-with-the-testcase-class)
 
+<img width="452" height="168" alt="Screenshot 2026-09-15 at 11 06 57 AM" src="https://github.com/user-attachments/assets/d3879286-1062-4a21-af0b-f282e5ec78b1" />
+
+
 ```python
 import unittest
 
@@ -75,6 +78,8 @@ if __name__ == "__main__":
 ## 3. GUI Programming
 
 Write a GUI program in the language selected for the Solitaire project. The program must include text, lines, a check box, and radio buttons.
+
+<img width="758" height="532" alt="Screenshot 2026-09-15 at 11 07 53 AM" src="https://github.com/user-attachments/assets/b6894a9b-d4cd-42a6-91e6-93429a74b89b" />
 
 ```python
 import tkinter as tk
