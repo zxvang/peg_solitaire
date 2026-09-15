@@ -23,3 +23,9 @@ To verify the installation before launching the GUI:
 ```bash
 python3 -c "import tkinter; print(tkinter.TkVersion)"
 ```
+
+Run the unit tests with:
+
+```bash
+python3 test_unittest.py
+```
