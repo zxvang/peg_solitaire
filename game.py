@@ -141,4 +141,3 @@ class PegSolitaireGame:
 
     def has_won(self):
         return len(self.pegs) == 1 and self.is_game_over()
-#test
