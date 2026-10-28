@@ -27,3 +27,12 @@ Due: October 6
 |                                                       | 5.2   | AC 5.2 won game<br>Given: an ongoing game<br>When: a player has no more valid moves<br>Then: display a message saying that the game is over, "peg_count," "moves_made," and that they won if the count of "pegs_left" is exactly 1         | to do                                |
 | 6. Restart game and redo a move                       | 6.1   | AC 6.1 restart a game<br>Given: an ended game<br>When: a player has no more valid moves and a win or loss condition is completed<br>Then: provide an option for the player to play another starting game                                   | to do                                |
 |                                                       | 6.2   | AC 6.2 redo a move<br>Given: an ongoing game<br>When: a player feels they made a bad move, and click on the redo button<br>Then: the move the player just made with undo, allowing them to make the same or different move                 | to do                                |
+
+
+## 3. Claude recommended acceptance criteria
+
+Prompt and response
+
+<img width="750" height="591" alt="Screenshot 2026-10-06 at 11 39 22 PM" src="https://github.com/user-attachments/assets/be9d48b1-f7e7-4fea-bafe-d829f96a0adf" />
+
+Specifically chosen AC's that will be utilized instead of using everything Claude recommended.
