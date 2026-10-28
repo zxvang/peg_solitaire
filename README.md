@@ -24,6 +24,19 @@ To verify the installation before launching the GUI:
 python3 -c "import tkinter; print(tkinter.TkVersion)"
 ```
 
+## Playing
+
+Choose an odd board size (5, 7, or 9) and a board type, then select
+**Start Game**. Click a peg and then an empty hole two spaces away over another
+peg to make a jump. English, European, and Diamond boards use horizontal and
+vertical jumps; Hexagon boards also allow diagonal jumps along the hexagonal
+grid. The counters show pegs remaining and moves made. Use **Undo** to restore
+the previous board, or **New Game** to restart with the current settings. The
+game ends when no legal jumps remain; leaving one peg is a win.
+
+The rules and board state are implemented independently of Tkinter in
+`game.py`; `GUI.py` handles only the user interface.
+
 Run the unit tests with:
 
 ```bash
