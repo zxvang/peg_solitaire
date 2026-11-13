@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Peg Solitaire",
+			"type": "shell",
+			"command": "./.venv/bin/python",
+			"args": [
+				"GUI.py"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
