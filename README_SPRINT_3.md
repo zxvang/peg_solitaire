@@ -116,7 +116,23 @@ Here are three Python files for a peg solitaire game: game.py, GUI.py and record
 - Coupling: degree of interdependence between modules
 - Encapsulation: bundling of data with the methods that operate on that data in one module
 
-[Insert screenshots of the prompt and response here]
+<img width="785" height="465" alt="ss1" src="https://github.com/user-attachments/assets/63fa1a73-9a83-443e-a521-26dedafcef6c" />
+
+<img width="691" height="244" alt="ss2" src="https://github.com/user-attachments/assets/809f0b51-8ac3-4596-a7a4-9862f455d5f2" />
+
+<img width="769" height="369" alt="ss3" src="https://github.com/user-attachments/assets/00be7123-4ba2-47f7-a965-3d8f42052308" />
+
+<img width="780" height="496" alt="ss 4" src="https://github.com/user-attachments/assets/0d70bbdc-56c2-401a-b98b-d2f6736a80ed" />
+
+<img width="785" height="668" alt="ss5" src="https://github.com/user-attachments/assets/b5ce5ec9-fb83-4f50-9e75-8cded22734bd" />
+
+<img width="783" height="386" alt="ss6" src="https://github.com/user-attachments/assets/fd34c102-774b-46a3-83b2-936da8cb1c2c" />
+
+<img width="802" height="600" alt="ss7" src="https://github.com/user-attachments/assets/e885939c-0556-4d5c-b918-f2b4a3975f4a" />
+
+<img width="789" height="572" alt="ss8" src="https://github.com/user-attachments/assets/611cdea8-c4bd-4606-8042-41f21873c138" />
+
+<img width="789" height="434" alt="ss9" src="https://github.com/user-attachments/assets/40686ee8-a220-4228-b712-b2f7bbfa3cac" />
 
 Interpreting the feedback
 
