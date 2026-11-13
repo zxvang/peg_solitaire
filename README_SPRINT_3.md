@@ -12,6 +12,7 @@ The video (5 minutes max) shows:
 - (d) A manual game where I randomize the board a few times before it ends
 - (e) Unit tests for the manual game mode
 - (f) Unit tests for the automated game mode
+**Panopto Link**: https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8148028-896a-4cca-9430-b50100fc8bae
 
 ## 2. Summary of Source Code
 
